@@ -5,7 +5,11 @@
 📫 How to reach me: ngweeherng@gmail.com
 
 ### My Interests and Hobbies
-🎮 I love to game, you can find me on:<br>
+🎮 Gaming, you might find me on:<br>
+<a><img src="https://commons.wikimedia.org/wiki/File:Dota-2-small-icon.png" height="100" /></a>
+🤖 Robotics
+
+🎹 Piano
 
 
 Projects I have worked on are all in this GitHub
