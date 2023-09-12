@@ -1,4 +1,4 @@
-### Hi there, I'm Wee Herng 👋
+### <p align="center">Hi there, I'm Wee Herng 👋</p>
 ## A student from Singapore Polytechnic 
 
 <!--
