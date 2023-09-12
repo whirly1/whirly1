@@ -4,7 +4,9 @@
 🌱 I’m currently learning about Raspberry Pi<br>
 📫 How to reach me: ngweeherng@gmail.com
 
-Projects I have worked on are all in this Github
+Projects I have worked on are all in this GitHub
+
+Skills 😄
 
 <!--
 **whirly1/whirly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
