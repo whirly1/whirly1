@@ -2,19 +2,26 @@
 
 🔭 I’m currently studying Applied AI and Analytics<br>
 🌱 I’m currently learning about Raspberry Pi<br>
-📫 How to reach me: ngweeherng@gmail.com
+📫 How to reach me: ngweeherng@gmail.com<br>
+💻 Projects I have worked on are in this GitHub
 
-### My Interests and Hobbies
-🎮 Gaming, you might find me on:<br>
-<a><img src="[[https://commons.wikimedia.org/wiki/File:Dota-2-small-icon.png](https://upload.wikimedia.org/wikipedia/commons/c/ce/Dota-2-small-icon.png)](https://www.flaticon.com/free-icon/dota-2_588267?term=dota&page=1&position=2&origin=search&related_id=588267)" height="50" /></a><br>
-🤖 Robotics
+### Interests and Hobbies
+#### 🎮 Gaming, you might find me on:<br>
+<p float='left'>
+  <img alt="Steam" src="https://www.freeiconspng.com/thumbs/steam-icon/steam-icon-19.png" width="40" height="40">
+  <img alt="Dota 2" src="https://e7.pngegg.com/pngimages/361/42/png-clipart-dota-2-dota-2-league-of-legends-the-international-video-game-axe-logo-game-logo.png" width="40" height="40">
+  <img alt="Genshin" src="https://play-lh.googleusercontent.com/vRd2gg6XmC3TRTM5wZZ8qwEc5LMUROh4whycLuiCSPB40tIxDYLT6V0BdCn486XiKQ0=w240-h480-rw" width="40" height="40">
+</p>
 
-🎹 Piano
+#### 🤖 Robotics<br>
+* In my secondary school and polytechnic, I joined robotics, where I used LEGO to build robots to participate in competitions like the National Robotics Competition and First Lego League<br>
+* Represented Singapore in the World Robot Olympiad in 2019 (Hungary, Gyor) and 2020 (Held Online, Hosted by Canada)<br>
+* Hope to further my interest by exploring other forms of robotics like Raspberry Pi<br>
 
+#### 🎹 Piano
+* Starting to learn piano again by myself after 8 years
 
-Projects I have worked on are all in this GitHub
-
-### Skills 😄
+### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,mysql,py,)](https://skillicons.dev)
 <!--
 **whirly1/whirly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
