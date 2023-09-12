@@ -1,5 +1,5 @@
 ### <p align="center">Hi there, I'm Wee Herng 👋</p>
-## A student from Singapore Polytechnic 
+#### <p align="center">A student from Singapore Polytechnic</p>
 
 <!--
 **whirly1/whirly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
