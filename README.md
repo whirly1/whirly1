@@ -1,8 +1,8 @@
-### <p align="center">Hi there, I'm Wee Herng 👋</p>
-### <p align="center">A student from Singapore Polytechnic</p>
+### <p align="center">Hi there, I'm Wee Herng, a student from Singapore Polytechnic 👋</p>
 
 🔭 I’m currently studying Applied AI and Analytics<br>
 🌱 I’m currently learning about Raspberry Pi
+📫 How to reach me: ngweeherng@gmail.com
 
 <!--
 **whirly1/whirly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
