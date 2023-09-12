@@ -1,7 +1,7 @@
 ### <p align="center">Hi there, I'm Wee Herng 👋</p>
 ### <p align="center">A student from Singapore Polytechnic</p>
 
-🔭 I’m currently studying Applied AI and Analytics
+🔭 I’m currently studying Applied AI and Analytics<br>
 🌱 I’m currently learning about Raspberry Pi
 
 <!--
