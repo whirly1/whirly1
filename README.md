@@ -5,7 +5,7 @@
 📫 How to reach me: ngweeherng@gmail.com
 
 ### My Interests and Hobbies
-I love to game, you can find me on:<br>
+🎮 I love to game, you can find me on:<br>
 
 
 Projects I have worked on are all in this GitHub
