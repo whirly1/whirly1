@@ -6,7 +6,7 @@
 
 ### My Interests and Hobbies
 🎮 Gaming, you might find me on:<br>
-<a><img src="[https://commons.wikimedia.org/wiki/File:Dota-2-small-icon.png](https://upload.wikimedia.org/wikipedia/commons/c/ce/Dota-2-small-icon.png)" height="50" /></a><br>
+<a><img src="[https://commons.wikimedia.org/wiki/File:Dota-2-small-icon.png](https://upload.wikimedia.org/wikipedia/commons/c/ce/Dota-2-small-icon.png)" height="500" /></a><br>
 🤖 Robotics
 
 🎹 Piano
