@@ -19,9 +19,6 @@
   <!--<img alt="Genshin" src="https://play-lh.googleusercontent.com/vRd2gg6XmC3TRTM5wZZ8qwEc5LMUROh4whycLuiCSPB40tIxDYLT6V0BdCn486XiKQ0=w240-h480-rw" width="40" height="40">-->
 </p>
 
-#### 🎹 Piano
-* Starting to learn piano again by myself after 8 years
-
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,mysql,py,)](https://skillicons.dev)
 <!--
