@@ -1,7 +1,7 @@
 ### <p align="center">Hi there, I'm Wee Herng, a student from Singapore Polytechnic 👋</p>
 
 🔭 I’m currently studying Applied AI and Analytics<br>
-🌱 I’m currently learning about Raspberry Pi<br>
+🌱 I’m currently learning Deep Learning<br>
 📫 How to reach me: ngweeherng@gmail.com<br>
 💻 Projects I have worked on are in this GitHub
 
