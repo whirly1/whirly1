@@ -1,7 +1,6 @@
 ### <p align="center">Hi there, I'm Wee Herng, an AI enthusiast! 👋</p>
 
 🔭 I’m a fresh graduate with a Diploma in Applied AI and Analytics<br>
-🌱 I’m currently learning Deep Learning<br>
 📫 How to reach me: ngweeherng@gmail.com<br>
 💻 Projects I have worked on are in this GitHub
 
@@ -20,6 +19,16 @@
 
 ### ✨ Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,mysql,py,)](https://skillicons.dev)
+
+### 🎧 Currently Listening to...
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mggdt5bfdtpri45nwlozmmagd4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=7b4eb1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ng-wee-herng-0b8888272/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+</p>
 
 
 
