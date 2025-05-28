@@ -1,4 +1,4 @@
-### <p align="center">Hi there, I'm Wee Herng, a AI enthusiast! 👋</p>
+### <p align="center">Hi there, I'm Wee Herng, an AI enthusiast! 👋</p>
 
 🔭 I’m a fresh graduate with a Diploma in Applied AI and Analytics<br>
 🌱 I’m currently learning Deep Learning<br>
@@ -16,7 +16,6 @@
 <p float='left'>
   <img alt="Steam" src="https://www.freeiconspng.com/thumbs/steam-icon/steam-icon-19.png" width="40" height="40">
   <img alt="Dota 2" src="https://e7.pngegg.com/pngimages/361/42/png-clipart-dota-2-dota-2-league-of-legends-the-international-video-game-axe-logo-game-logo.png" width="40" height="40">
-  <!--<img alt="Genshin" src="https://play-lh.googleusercontent.com/vRd2gg6XmC3TRTM5wZZ8qwEc5LMUROh4whycLuiCSPB40tIxDYLT6V0BdCn486XiKQ0=w240-h480-rw" width="40" height="40">-->
 </p>
 
 ### ✨ Skills
