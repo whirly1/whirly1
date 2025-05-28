@@ -1,6 +1,6 @@
-### <p align="center">Hi there, I'm Wee Herng, a student from Singapore Polytechnic 👋</p>
+### <p align="center">Hi there, I'm Wee Herng, a AI enthusiast! 👋</p>
 
-🔭 I’m currently studying Applied AI and Analytics<br>
+🔭 I’m a fresh graduate with a Diploma in Applied AI and Analytics<br>
 🌱 I’m currently learning Deep Learning<br>
 📫 How to reach me: ngweeherng@gmail.com<br>
 💻 Projects I have worked on are in this GitHub
@@ -22,10 +22,12 @@
 ### ✨ Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,mysql,py,)](https://skillicons.dev)
 
-### 🎧 Currently listening to
-[[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mggdt5bfdtpri45nwlozmmagd4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)](https://spotify-github-profile.kittinanx.com)
+
 
 <!--
+
+### 🎧 Currently listening to
+[[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mggdt5bfdtpri45nwlozmmagd4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)](https://spotify-github-profile.kittinanx.com)
 **whirly1/whirly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
