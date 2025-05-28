@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,mysql,py,)](https://skillicons.dev)
 
 ### 🎧 Currently listening to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mggdt5bfdtpri45nwlozmmagd4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mggdt5bfdtpri45nwlozmmagd4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)](https://spotify-github-profile.kittinanx.com)
 
 <!--
 **whirly1/whirly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
