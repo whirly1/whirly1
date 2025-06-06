@@ -17,6 +17,9 @@
   <img alt="Dota 2" src="https://e7.pngegg.com/pngimages/361/42/png-clipart-dota-2-dota-2-league-of-legends-the-international-video-game-axe-logo-game-logo.png" width="40" height="40">
 </p>
 
+#### 🧬 Computational Biology<br>
+* I aspire to dive deeper into computational biology when I start studying computer science at NUS. Blending tech with fields like medicine and biology is something I'm really excited about, as I think there's a lot of potential to innovate in spaces that are traditionally slower to change
+
 ### ✨ Skills
 [![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
